@@ -4,13 +4,13 @@
     {
       "id": "ad1",
       "text": "🛒 최고 퀄리티 최저가 공유숙박 전용몰",
-      "link": "https://example-store.com",
+      "link": "#",
       "active": true
     },
     {
       "id": "ad2", 
       "text": "📊 입지분석 문의하기",
-      "link": "https://example-analysis.com",
+      "link": "#",
       "active": true
     }
   ],
