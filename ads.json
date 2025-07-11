@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "ads": [
+    {
+      "id": "ad1",
+      "text": "🛒 최고 퀄리티 최저가 공유숙박 전용몰",
+      "link": "https://example-store.com",
+      "active": true
+    },
+    {
+      "id": "ad2", 
+      "text": "📊 입지분석 문의하기",
+      "link": "https://example-analysis.com",
+      "active": true
+    }
+  ],
+  "lastUpdated": "2025-07-12T10:30:00Z"
+}
